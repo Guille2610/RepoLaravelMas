@@ -55,10 +55,11 @@ php artisan migrate:status
 Los resultados del laboratorio fueron los siguientes:
 - Se pudo acceder al portal principal de Laravel
 
-(IMAGEN)
+<img width="562" height="338" alt="LaravelLogin" src="https://github.com/user-attachments/assets/6d8f50a1-abef-4a57-b0cc-8a6b25cca1b7" />
+
 - Se pudo acceder al inicio de sesión y registro del entorno.
 
-(IMAGEN)
+<img width="457" height="338" alt="LaravelPortal" src="https://github.com/user-attachments/assets/6a1a3a37-a3bc-4124-96bf-f04e41c2c5ae" />
 
 ## Base de datos y configuración en Laravel
 
